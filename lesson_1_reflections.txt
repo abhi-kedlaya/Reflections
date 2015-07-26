@@ -1,0 +1,58 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+    Since, the previous version was known to be a working version, I could just concnentrate on the differences between the two versions rather than the entire file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+    I could revert back to any specific version of the file if required without having to undo all the changes manually.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+    Pros:
+        Source code can be checked-in only at specific logical points when all the chnages required for a functionality are done. So, having manual control allows one to choose such logical points for committing a version.
+        Optimal memory usage due to reduced no. of commits.
+        Meaninful commit messages allow for easy identification and traceability of code with the required feature set.
+
+    Cons:
+        If you fail to commit manually and lose the work, all the changes since the previous commit will be lost.
+        There may not be any meaningful commit messages and using commit times only to identify the required version can be tedious.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+    Often source code for applications is divided across multiple modules and files. So, a given functionality update might require an update in more than one file. Hence, it makes sense to commit multiple files in one go.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+    Having a version control system allows me to revert back my changes if the updates break something. It also allows me to make my changes on a branch where-in I can test the changes thoroughly before commiting to the main trunk.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+    Commit my workspace to the git repository and make updates to it which can be committed and try and experitment with git log and git diff
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Fill in your answer here
+    I can go back and review my changes done at any stage of development, which helps me trememdously in the long term.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    
+    Fill in your answer here
+    I would like to make some updates to the code and try commiting it to the server
+
