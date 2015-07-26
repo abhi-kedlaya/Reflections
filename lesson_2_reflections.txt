@@ -18,3 +18,8 @@ What are some situations when branches would be helpful in keeping your history 
    Fill in your answer here
    If I have to make a major change which requires time for stabilizing, I can add it on a branch and then move it to the master branch once it is fully tested.
 
+How do the diagrams help you visualize the branch structure?
+  
+   Fill in your answer here
+   Diagrams clearly show the parent child relationship between commits and help us trace all the changes from the tip of a branch till the first commit. It also, helps us visualize the various branches that exist on the repository
+
