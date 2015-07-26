@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+   Fill in your answer here
+   This creates a new repository in the required folder. Git creates .git folder to track all the meta information pertaining to the repository such as commit logs, history etc.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+   Fill in your answer here
+   Working directory can consist of many files, once the repository is initialized, all the files in the working directory are tracked but only the added ones are ready to be committed.
+
+
