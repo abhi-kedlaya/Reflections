@@ -23,3 +23,8 @@ How do the diagrams help you visualize the branch structure?
    Fill in your answer here
    Diagrams clearly show the parent child relationship between commits and help us trace all the changes from the tip of a branch till the first commit. It also, helps us visualize the various branches that exist on the repository
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+   Fill in your answer here
+   All the contents from the two branches are intelligently merged based on the common point from which the branches diverged. We represent it in the digaram the way we do for easy traceability of the changes done each branch.
+
