@@ -28,3 +28,9 @@ What is the result of merging two branches together? Why do we represent it in t
    Fill in your answer here
    All the contents from the two branches are intelligently merged based on the common point from which the branches diverged. We represent it in the digaram the way we do for easy traceability of the changes done each branch.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+   Fill in your answer here
+   Automatic merging can reduce manual effort when the changes done to code on different sections of code. However, if there are a lot of potential conflicts, it is better to do it manually, as automatic merging can cause a lot of issues.
+
