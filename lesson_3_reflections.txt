@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
     Fill in your answer here
     Once a given functionality is fully verified and when I would like to collaborate, share my work with other developers, I will push my commits to remote repository.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+    Answer: Git will not be able to identify the correct logical points in the development cycle for "pull". It may end up pulling changes that may not work properly. Hence it is best left to the developer to decide the right time to push changes into the remote repository.
