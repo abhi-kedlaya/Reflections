@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
     Clone is a git command to clone a remote respository on to your local manchine
     Branch is a label in your git repository for you to develop some new feature which is not fully ready for production yet!
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    The advantage is being able to identify the changes that may have been happening on the remote repository at a later point and being able to merge all those changes to the local master branch before pushing the changes back to the remote repository
+
